@@ -1,0 +1,5 @@
+DISPLAY_NAME=Manager Bot
+MAIN=index.js
+MEMORY=512
+VERSION=latest
+DESCRIPTION=ShardCloud Manager Bots
