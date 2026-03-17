@@ -2,7 +2,7 @@
   "title": "ShardCloud Template — Manager Bot",
   "ref": "main",
   "items": [
-    { "file": "intro.md", "label": "Introdução" },
-    { "file": "config.md", "label": "Configuração" }
+    { "file": "01-intro.md", "label": "Introdução" },
+    { "file": "02-config.md", "label": "Configuração" }
   ]
 }
